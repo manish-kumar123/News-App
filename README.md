@@ -55,7 +55,7 @@ State guidelines for contributing to the project. Include steps for submitting b
 
 **License**
 
-Specify the license under which the project is distributed. Mention if any third-party libraries or assets have different licenses.
+Specify the license under which the project is distributed. Mention if any third-party libraries or assets have different licenses..
 
 C**hoose a License**
 
